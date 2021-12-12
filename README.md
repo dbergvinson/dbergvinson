@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dbergvinson
+- 👀 I’m interested in Companion to support Atem switchers, specifically MixEffect coupled with Companion and a Streamdeck
+- 🌱 I’m currently learning how to integrate steaming tools to create awareness on adaption to climate change
+- 💞️ I’m looking to collaborate on Atem switcher resources for streaming and video produciton.
+- 📫 How to reach me dbergvinson@gmail.com
